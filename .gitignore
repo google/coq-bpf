@@ -1,0 +1,17 @@
+# Editor backup files
+*~
+\#*
+.\#*
+.*.swp
+
+# Coq
+*.glob
+*.vo
+
+# Python
+*.pyc
+
+
+# Local Variables:
+# mode: conf
+# End:
